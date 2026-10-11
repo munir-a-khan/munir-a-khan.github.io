@@ -1,6 +1,6 @@
 # Public content and image provenance
 
-All project images are unchanged copies of tracked public assets from [Munir at commit 5a419f11](https://github.com/munir-a-khan/Munir/tree/5a419f11c5bb6a888ef135324b2d34044cefbcf2/assets/projects). The original public source ledger is [here](https://github.com/munir-a-khan/Munir/blob/5a419f11c5bb6a888ef135324b2d34044cefbcf2/assets/projects/SOURCES.md).
+Original project images are unchanged copies of tracked public assets from [Munir at commit 5a419f11](https://github.com/munir-a-khan/Munir/tree/5a419f11c5bb6a888ef135324b2d34044cefbcf2/assets/projects). The original public source ledger is [here](https://github.com/munir-a-khan/Munir/blob/5a419f11c5bb6a888ef135324b2d34044cefbcf2/assets/projects/SOURCES.md).
 
 | Local image | Public asset | Context |
 | --- | --- | --- |
@@ -12,3 +12,5 @@ All project images are unchanged copies of tracked public assets from [Munir at 
 SkyFlip source is private and is not linked as public evidence. Development is AI-assisted. No trading performance or profitability is established by these images.
 
 The public [profile README](https://github.com/munir-a-khan/Munir), [AMIGA repository](https://github.com/munir-a-khan/farm-ng-amiga-autonomous-navigation), [rivenforge repository](https://github.com/munir-a-khan/rivenforge), [IndySCC repository](https://github.com/munir-a-khan/IndySCC24), and [MLCommons contribution repository](https://github.com/munir-a-khan/cm4mlperf-inference) provide project context. Award attribution belongs to the capstone team. NREL container experiments through 208 cores describe research scope, not causal speedup, completed GPU work, publication, or production reliability.
+
+The `amiga-600.webp`, `amiga-1200.webp`, and `amiga-1800.webp` previews are deterministic Pillow Lanczos resizes of the unchanged public poster, saved at WebP quality 88. They preserve the full composition. The page uses responsive previews; clicking opens the original PNG.
